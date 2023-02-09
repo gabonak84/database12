@@ -1,9 +1,18 @@
 {
-  "team": [{
+  "team": [
+    {
     "id": 1,
     "name": "Team Liquid",
     "url": "https://liquipedia.net/commons/images/thumb/c/c9/Team_Liquid_2020_lightmode.png/44px-Team_Liquid_2020_lightmode.png",
-    "Email": "contact@teamliquid.gg",
-    "Divisi": "Divisi 1 EU"
-  }]
+    "email": "contact@teamliquid.gg",
+    "divisi": "Divisi 1 EU"
+   },
+    {
+    "id": 2,
+    "name": "Team Secret",
+    "url": "https://liquipedia.net/commons/images/thumb/c/c9/Team_Liquid_2020_lightmode.png/44px-Team_Liquid_2020_lightmode.png",
+    "email": "contact@teamliquid.gg",
+    "divisi": "Divisi 2 EU"
+   }
+  ]
 }
